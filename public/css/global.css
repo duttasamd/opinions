@@ -1,0 +1,27 @@
+.aligncenter {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height: 95vh;
+}
+
+.hcenter {
+    display:flex;
+    justify-content:center;
+}
+
+.w-lg-75 {
+    width: 75%;
+}
+
+.mh-40vh {
+    min-height: 40vh;
+}
+
+@media only screen and (max-width: 600px) {
+    .w-lg-75 {
+        width: 100%;
+    }
+}
+
+

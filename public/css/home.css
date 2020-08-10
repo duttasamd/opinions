@@ -1,0 +1,11 @@
+#landing {
+    background: url(../img/landing.jpg) no-repeat center center fixed;
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
